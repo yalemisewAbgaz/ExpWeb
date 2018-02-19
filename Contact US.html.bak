@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Contact US</title>
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <form>
+      <div> <input value="Enter your message here" type="text"> </div>
+      <div> <textarea> this is wher you write your message</textarea> </div>
+      <div> <input placeholder="your email here" type="text"> </div>
+      <div> <input value="5" min="0" max="10" type="number"> </div>
+      <div> <input type="date"> </div>
+      <div>
+        <select multiple="multiple">
+          <option selected="selected">Dublin </option>
+          <option>Salamanca</option>
+          <option selected="selected">Vienna</option>
+        </select>
+        <select >
+          <option selected="selected">Dublin </option>
+          <option>Salamanca</option>
+          <option>Vienna</option>
+        </select>
+        <options <="" div=""> <button type="submit"> Submit the
+            message</button>
+          <p></p>
+        </options></div>
+    </form>
+  </body>
+</html>
